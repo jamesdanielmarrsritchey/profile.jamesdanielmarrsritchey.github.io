@@ -1,13 +1,13 @@
 /* TEAM */
-$role: $name
-Site: $url
-Location: $town, $country
+Administrator: James Daniel Marrs Ritchey
+Site: https://jamesdanielmarrsritchey.roy.gôv.net
+Location: Canada
 
 /* THANKS */
-$role: $name
-Site: $url
-Location: $town, $country
+Contributer: James Daniel Marrs Ritchey
+Site: https://jamesdanielmarrsritchey.roy.gôv.net
+Location: Canada
 
 /* SITE */
-Last update: 2026/05/25
+Last update: 2026/05/27
 Standards: HTML5, CSS3, Javascript
